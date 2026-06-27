@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Resid-deal-analyzer-IncomeProp/static/js/main.4d9b422c.js",
-    "static/js/239.cff9bd40.chunk.js": "/Resid-deal-analyzer-IncomeProp/static/js/239.cff9bd40.chunk.js",
-    "static/js/977.76d402e3.chunk.js": "/Resid-deal-analyzer-IncomeProp/static/js/977.76d402e3.chunk.js",
-    "static/js/455.758fdf8d.chunk.js": "/Resid-deal-analyzer-IncomeProp/static/js/455.758fdf8d.chunk.js",
-    "index.html": "/Resid-deal-analyzer-IncomeProp/index.html",
-    "main.4d9b422c.js.map": "/Resid-deal-analyzer-IncomeProp/static/js/main.4d9b422c.js.map",
-    "239.cff9bd40.chunk.js.map": "/Resid-deal-analyzer-IncomeProp/static/js/239.cff9bd40.chunk.js.map",
-    "977.76d402e3.chunk.js.map": "/Resid-deal-analyzer-IncomeProp/static/js/977.76d402e3.chunk.js.map",
-    "455.758fdf8d.chunk.js.map": "/Resid-deal-analyzer-IncomeProp/static/js/455.758fdf8d.chunk.js.map"
+    "main.js": "/Resid-deal-analyzer-IncomeProp-pages/static/js/main.d39a9de0.js",
+    "static/js/239.cff9bd40.chunk.js": "/Resid-deal-analyzer-IncomeProp-pages/static/js/239.cff9bd40.chunk.js",
+    "static/js/977.76d402e3.chunk.js": "/Resid-deal-analyzer-IncomeProp-pages/static/js/977.76d402e3.chunk.js",
+    "static/js/455.758fdf8d.chunk.js": "/Resid-deal-analyzer-IncomeProp-pages/static/js/455.758fdf8d.chunk.js",
+    "index.html": "/Resid-deal-analyzer-IncomeProp-pages/index.html",
+    "main.d39a9de0.js.map": "/Resid-deal-analyzer-IncomeProp-pages/static/js/main.d39a9de0.js.map",
+    "239.cff9bd40.chunk.js.map": "/Resid-deal-analyzer-IncomeProp-pages/static/js/239.cff9bd40.chunk.js.map",
+    "977.76d402e3.chunk.js.map": "/Resid-deal-analyzer-IncomeProp-pages/static/js/977.76d402e3.chunk.js.map",
+    "455.758fdf8d.chunk.js.map": "/Resid-deal-analyzer-IncomeProp-pages/static/js/455.758fdf8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d9b422c.js"
+    "static/js/main.d39a9de0.js"
   ]
 }
